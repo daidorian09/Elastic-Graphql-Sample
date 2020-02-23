@@ -1,0 +1,1231 @@
+{
+  "products": [{
+      "id": 34611252,
+      "name": "Siyah Taşlı Kemerli Yırtmaç Detaylı Örme Pantolon TWOSS20PL0100",
+      "productCode": "TWOSS20PL0100",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29237939,
+      "ratingScore": {
+        "averageRating": 4.338235294117647,
+        "totalCount": 68
+      },
+      "images": [
+        "/assets/product/media/images/20200122/9/2438859/61901618/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200122/9/2438859/61901618/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200122/9/2438859/61901618/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200122/9/2438859/61901618/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200122/9/2438859/61901618/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-tasli-kemerli-yirtmac-detayli-orme-pantolon-twoss20pl0100-p-34611252?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 529,
+        "name": "Pantolon",
+        "hierarchy": "Giyim/Alt Giyim/Pantolon"
+      }],
+      "variants": [{
+        "itemNumber": 61901618,
+        "barcode": "8682165269335",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "S"
+        }],
+        "listings": [{
+          "id": "7862f442f53b7437991021a1f3e91eb4",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 69.99,
+            "buyingPrice": 0,
+            "originalPrice": 69.99,
+            "discountedPrice": 69.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 34411819,
+      "name": "Siyah Volanlı Midi Elbise TWOSS20EL1342",
+      "productCode": "TWOSS20EL1342",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29101396,
+      "ratingScore": {
+        "averageRating": 4.259740259740259,
+        "totalCount": 77
+      },
+      "images": [
+        "/assets/product/media/images/20200121/16/2426050/61568170/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200121/16/2426050/61568170/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200121/16/2426050/61568170/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200121/16/2426050/61568170/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200121/16/2426050/61568170/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-volanli-midi-elbise-twoss20el1342-p-34411819?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 61568173,
+        "barcode": "8682165430568",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "42"
+        }],
+        "listings": [{
+          "id": "9bd2dca2f0ee49c072f0a6a65d0fd19c",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 109.99,
+            "buyingPrice": 0,
+            "originalPrice": 109.99,
+            "discountedPrice": 109.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 34942827,
+      "name": "Çok Renkli Kemerli Elbise TWOSS20EL0425",
+      "productCode": "TWOSS20EL0425",
+      "inStock": true,
+      "dsmColor": "Çok Renkli",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29463018,
+      "ratingScore": {
+        "averageRating": 4.35,
+        "totalCount": 20
+      },
+      "images": [
+        "/assets/product/media/images/20200217/18/3073532/62448384/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200217/18/3073532/62448384/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200217/18/3073532/62448384/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200129/11/2588361/62448384/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200129/11/2588361/62448384/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200129/11/2588361/62448384/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200129/11/2588361/62448384/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200129/11/2588361/62448384/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/cok-renkli-kemerli-elbise-twoss20el0425-p-34942827?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 62448384,
+        "barcode": "8682165173311",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "36"
+        }],
+        "listings": [{
+          "id": "5d4d0e0ee7ec8f4bed623c36c68dddbf",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 119.99,
+            "buyingPrice": 0,
+            "originalPrice": 119.99,
+            "discountedPrice": 119.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 35625613,
+      "name": "Siyah Geniş Kesim Elbise TWOSS20EL0400",
+      "productCode": "TWOSS20EL0400",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29919983,
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "images": [
+        "/assets/product/media/images/20200221/9/3396856/63691570/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200221/9/3396856/63691570/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200221/9/3396856/63691570/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200221/9/3396856/63691570/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-genis-kesim-elbise-twoss20el0400-p-35625613?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 63691571,
+        "barcode": "8682165169291",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "38"
+        }],
+        "listings": [{
+          "id": "04eb8b5aca63ed791ad73bfc80636f73",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 79.99,
+            "buyingPrice": 0,
+            "originalPrice": 79.99,
+            "discountedPrice": 79.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 8973478,
+      "name": "Açık Mavi Önden Düğmeli Süper Yüksek Bel Mom Jeans TWOAW20JE0028",
+      "productCode": "TWOAW20JE0028",
+      "inStock": true,
+      "dsmColor": "MAVI",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 7535805,
+      "ratingScore": {
+        "averageRating": 4.494897959183674,
+        "totalCount": 196
+      },
+      "images": [
+        "/assets/product/media/images/20200203/10/2705295/22197623/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200203/10/2705295/22197623/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200203/10/2705295/22197623/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200203/10/2705295/22197623/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200203/10/2705295/22197623/5/5_org_zoom.jpg",
+        "/assets/product/media/images/20200203/10/2705295/22197623/6/6_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/acik-mavi-onden-dugmeli-super-yuksek-bel-mom-jeans-twoaw20je0028-p-8973478?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1186,
+        "name": "Jeans",
+        "hierarchy": "Giyim/Alt Giyim/Jeans"
+      }],
+      "variants": [{
+        "itemNumber": 22206194,
+        "barcode": "8682164456453",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "38"
+        }],
+        "listings": [{
+          "id": "86a0a6d6d7a6c6109128c11510e87b4b",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 109.99,
+            "buyingPrice": 0,
+            "originalPrice": 109.99,
+            "discountedPrice": 109.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 34412115,
+      "name": "Lacivert Düğme Detaylı Ceket TWOSS20CE0024",
+      "productCode": "TWOSS20CE0024",
+      "inStock": true,
+      "dsmColor": "Lacivert",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29101654,
+      "ratingScore": {
+        "averageRating": 4.4222222222222225,
+        "totalCount": 45
+      },
+      "images": [
+        "/assets/product/media/images/20200120/13/2380953/61568713/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200120/13/2380953/61568713/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200120/13/2380953/61568713/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200120/13/2380953/61568713/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200120/13/2380953/61568713/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/lacivert-dugme-detayli-ceket-twoss20ce0024-p-34412115?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 594,
+        "name": "Ceket",
+        "hierarchy": "Giyim/Ceket & Yelek/Ceket/Dış Giyim"
+      }],
+      "variants": [{
+        "itemNumber": 61568713,
+        "barcode": "8682165168300",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "36"
+        }],
+        "listings": [{
+          "id": "4a681708fbe3219aac4f221e76486f8f",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 149.99,
+            "buyingPrice": 0,
+            "originalPrice": 149.99,
+            "discountedPrice": 149.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 35182458,
+      "name": "Kırmızı Desenli Fırfırlı Elbise TWOSS20EL0681",
+      "productCode": "TWOSS20EL0681",
+      "inStock": true,
+      "dsmColor": "Kırmızı",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29633030,
+      "ratingScore": {
+        "averageRating": 4.5625,
+        "totalCount": 16
+      },
+      "images": [
+        "/assets/product/media/images/20200213/10/2949782/62815090/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200213/10/2949782/62815090/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200213/10/2949782/62815090/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200213/10/2949782/62815090/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/kirmizi-desenli-firfirli-elbise-twoss20el0681-p-35182458?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 62940305,
+        "barcode": "8682165292944",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "38"
+        }],
+        "listings": [{
+          "id": "685ab80cdffe5473401270d035288fa0",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 89.99,
+            "buyingPrice": 0,
+            "originalPrice": 89.99,
+            "discountedPrice": 89.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 4739999,
+      "name": "Taş Kuşaklı Elbise TWOSS19XN0008",
+      "productCode": "TWOSS19XN0008",
+      "inStock": true,
+      "dsmColor": "Taş",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 3955719,
+      "ratingScore": {
+        "averageRating": 4.237704918032787,
+        "totalCount": 1098
+      },
+      "images": [
+        "/assets/product/media/images/20200217/9/3073394/17576741/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200217/9/3073394/17576741/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200217/9/3073394/17576741/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200217/9/3073394/17576741/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/tas-kusakli-elbise-twoss19xn0008-p-4739999?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 17989216,
+        "barcode": "8680651662523",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "38"
+        }],
+        "listings": [{
+          "id": "49f9b7fecc983e5c5c98cbcdf58b8eea",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 99.99,
+            "buyingPrice": 0,
+            "originalPrice": 99.99,
+            "discountedPrice": 99.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 34536151,
+      "name": "Camel Balıkçı Yaka Fitilli Örme Bluz TWOSS20BZ0476",
+      "productCode": "TWOSS20BZ0476",
+      "inStock": true,
+      "dsmColor": "Camel",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29184342,
+      "ratingScore": {
+        "averageRating": 4.321739130434783,
+        "totalCount": 115
+      },
+      "images": [
+        "/assets/product/media/images/20200124/16/2511390/61782975/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200124/16/2511390/61782975/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200124/16/2511390/61782975/3/3_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/camel-balikci-yaka-fitilli-orme-bluz-twoss20bz0476-p-34536151?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 590,
+        "name": "Bluz",
+        "hierarchy": "Bluz/Giyim/Üst Giyim/Bluz & Tunik"
+      }],
+      "variants": [{
+        "itemNumber": 61782976,
+        "barcode": "8682165379409",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "M"
+        }],
+        "listings": [{
+          "id": "0eae5ce9bdbb5931e6908879cecbbf33",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 39.99,
+            "buyingPrice": 0,
+            "originalPrice": 39.99,
+            "discountedPrice": 39.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 31472774,
+      "name": "Siyah Kargo Cepli Örme Eşofman Altı TWOAW20EA0088",
+      "productCode": "TWOAW20EA0088",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 26846676,
+      "ratingScore": {
+        "averageRating": 4.305033809166041,
+        "totalCount": 1331
+      },
+      "images": [
+        "/assets/product/media/images/20200211/16/2954662/56638092/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/56638092/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/56638092/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/56638092/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/56638092/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-kargo-cepli-orme-esofman-alti-twoaw20ea0088-p-31472774?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 525,
+        "name": "Eşofman Altı",
+        "hierarchy": "Giyim/Alt Giyim/Eşofman/Eşofman Altı"
+      }],
+      "variants": [{
+        "itemNumber": 56638093,
+        "barcode": "8682164879863",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "S"
+        }],
+        "listings": [{
+          "id": "bc44f0799549208a2e034b217308732d",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 49.99,
+            "buyingPrice": 0,
+            "originalPrice": 49.99,
+            "discountedPrice": 49.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 6686380,
+      "name": "Siyah Kuşaklı Elbise TWOSS19EL0155",
+      "productCode": "TWOSS19EL0155",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 5724997,
+      "ratingScore": {
+        "averageRating": 4.260948905109489,
+        "totalCount": 548
+      },
+      "images": [
+        "/assets/product/media/images/20200220/16/3313410/21183984/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200220/16/3313410/21183984/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200220/16/3313410/21183984/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200220/16/3313410/21183984/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-kusakli-elbise-twoss19el0155-p-6686380?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 21183984,
+        "barcode": "8682164305423",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "36"
+        }],
+        "listings": [{
+          "id": "d426db2fc353f589cf382aa8b2d9c9a4",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 99.99,
+            "buyingPrice": 0,
+            "originalPrice": 99.99,
+            "discountedPrice": 99.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 25139159,
+      "name": "Siyah Dik Yaka Basic Örme T-shirt TWOAW20TS0096",
+      "productCode": "TWOAW20TS0096",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 22339898,
+      "ratingScore": {
+        "averageRating": 4.482830695730069,
+        "totalCount": 3349
+      },
+      "images": [
+        "/assets/product/media/images/20200127/16/2565962/43044746/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200127/16/2565962/43044746/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200127/16/2565962/43044746/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20191218/9/1570705/43044746/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20191218/9/1570705/43044746/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20191218/9/1570705/43044746/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20191218/9/1570705/43044746/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20191218/9/1570705/43044746/5/5_org_zoom.jpg",
+        "/assets/product/images/1597/43044746/1/1_org_zoom.jpg",
+        "/assets/product/images/1597/43044746/2/2_org_zoom.jpg",
+        "/assets/product/images/1597/43044746/3/3_org_zoom.jpg",
+        "/assets/product/images/1597/43044746/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-dik-yaka-basic-orme-t-shirt-twoaw20ts0096-p-25139159?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 604,
+        "name": "T-Shirt",
+        "hierarchy": "Giyim/T-Shirt/Üst Giyim"
+      }],
+      "variants": [{
+        "itemNumber": 63246006,
+        "barcode": "8682165660200",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "XS"
+        }],
+        "listings": [{
+          "id": "926fc474c0af4542bc5cd317c91a2da3",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 29.99,
+            "buyingPrice": 0,
+            "originalPrice": 29.99,
+            "discountedPrice": 29.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 7484321,
+      "name": "Lacivert Büzgülü Crop Örme Bluz TWOAW20BZ0505",
+      "productCode": "TWOAW20BZ0505",
+      "inStock": true,
+      "dsmColor": "LACIVERT",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 7535754,
+      "ratingScore": {
+        "averageRating": 4.635529334644379,
+        "totalCount": 3051
+      },
+      "images": [
+        "/assets/product/media/images/20200123/17/2491937/22360627/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200123/17/2491937/22360627/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200123/17/2491937/22360627/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20191218/16/1599969/22360628/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20191218/16/1599969/22360628/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20191218/16/1599969/22360628/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20191218/16/1599969/22360628/4/4_org_zoom.jpg",
+        "/assets/product/images/982/22360628/1/1_org_zoom.jpg",
+        "/assets/product/images/982/22360628/2/2_org_zoom.jpg",
+        "/assets/product/images/982/22360628/3/3_org_zoom.jpg",
+        "/assets/product/images/982/22360628/4/4_org_zoom.jpg",
+        "/assets/product/images/982/22360628/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/lacivert-buzgulu-crop-orme-bluz-twoaw20bz0505-p-7484321?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 590,
+        "name": "Bluz",
+        "hierarchy": "Bluz/Giyim/Üst Giyim/Bluz & Tunik"
+      }],
+      "variants": [{
+        "itemNumber": 22360629,
+        "barcode": "8682164688519",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "M"
+        }],
+        "listings": [{
+          "id": "8b81f2b684abe0b9327c02456b5ba629",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 39.99,
+            "buyingPrice": 0,
+            "originalPrice": 39.99,
+            "discountedPrice": 39.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 4659846,
+      "name": "Siyah Basic Pantolon TWOSS19ST0038",
+      "productCode": "TWOSS19ST0038",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 3884333,
+      "ratingScore": {
+        "averageRating": 3.8232862555976577,
+        "totalCount": 2903
+      },
+      "images": [
+        "/assets/product/media/images/20200213/14/3041419/17830672/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200213/14/3041419/17830672/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200213/14/3041419/17830672/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200213/14/3041419/17830672/5/5_org_zoom.jpg",
+        "/assets/product/media/images/20200213/14/3041419/17830672/7/7_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-basic-pantolon-twoss19st0038-p-4659846?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 529,
+        "name": "Pantolon",
+        "hierarchy": "Giyim/Alt Giyim/Pantolon"
+      }],
+      "variants": [{
+        "itemNumber": 17830671,
+        "barcode": "8680651662554",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "34"
+        }],
+        "listings": [{
+          "id": "c902b78f5c40282fb93ead86ff0cd35b",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 59.99,
+            "buyingPrice": 0,
+            "originalPrice": 59.99,
+            "discountedPrice": 59.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 6024965,
+      "name": "Kahverengi Baskılı Loose Kalıp Örme T-shirt TWOSS19GH0034",
+      "productCode": "TWOSS19GH0034",
+      "inStock": true,
+      "dsmColor": "Kahverengi",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 5156025,
+      "ratingScore": {
+        "averageRating": 4.073015873015873,
+        "totalCount": 1260
+      },
+      "images": [
+        "/assets/product/media/images/20200211/16/2954662/19807326/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/19807326/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/19807326/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/19807326/4/4_org_zoom.jpg",
+        "/assets/product/media/images/20200211/16/2954662/19807326/5/5_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/kahverengi-baskili-loose-kalip-orme-t-shirt-twoss19gh0034-p-6024965?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 604,
+        "name": "T-Shirt",
+        "hierarchy": "Giyim/T-Shirt/Üst Giyim"
+      }],
+      "variants": [{
+        "itemNumber": 19807327,
+        "barcode": "8682164091746",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "M"
+        }],
+        "listings": [{
+          "id": "fced386fc18a9d8f53c069061c190983",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 34.99,
+            "buyingPrice": 0,
+            "originalPrice": 34.99,
+            "discountedPrice": 34.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 35438063,
+      "name": "Bej Su İtici Özellikli Düğme Kapamalı Uzun Trençkot TWOSS20TR0012",
+      "productCode": "TWOSS20TR0012",
+      "inStock": true,
+      "dsmColor": "Bej",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29793899,
+      "ratingScore": {
+        "averageRating": 4.428571428571429,
+        "totalCount": 7
+      },
+      "images": [
+        "/assets/product/media/images/20200217/9/3071431/63230958/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200217/9/3071431/63230958/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200217/9/3071431/63230958/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200217/9/3071431/63230958/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/bej-su-itici-ozellikli-dugme-kapamali-uzun-trenckot-twoss20tr0012-p-35438063?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 540,
+        "name": "Trençkot",
+        "hierarchy": "Pardesü & Trençkot/Giyim/Dış Giyim/Trençkot"
+      }],
+      "variants": [{
+        "itemNumber": 63230959,
+        "barcode": "8682165645061",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "38"
+        }],
+        "listings": [{
+          "id": "6ba671c89f1de937eb306ee69d02e7aa",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 199.99,
+            "buyingPrice": 0,
+            "originalPrice": 199.99,
+            "discountedPrice": 199.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 35370014,
+      "name": "Krem Desenli Elbise TWOSS20EL0894",
+      "productCode": "TWOSS20EL0894",
+      "inStock": true,
+      "dsmColor": "Krem",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29760244,
+      "ratingScore": {
+        "averageRating": 4.55,
+        "totalCount": 20
+      },
+      "images": [
+        "/assets/product/media/images/20200213/10/2949782/63138086/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200213/10/2949782/63138086/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200213/10/2949782/63138086/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200213/10/2949782/63138086/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/krem-desenli-elbise-twoss20el0894-p-35370014?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 63138086,
+        "barcode": "8682165395874",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "36"
+        }],
+        "listings": [{
+          "id": "174f8de63b0eae00c4ef4134f70b2fda",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 109.99,
+            "buyingPrice": 0,
+            "originalPrice": 109.99,
+            "discountedPrice": 109.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 35631203,
+      "name": "Siyah Büzgü Detaylı Elbise TWOSS20EL1864",
+      "productCode": "TWOSS20EL1864",
+      "inStock": true,
+      "dsmColor": "Siyah",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29924472,
+      "ratingScore": {
+        "averageRating": 5,
+        "totalCount": 1
+      },
+      "images": [
+        "/assets/product/media/images/20200220/8/3204826/63702726/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200220/8/3204826/63702726/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200220/8/3204826/63702726/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200220/8/3204826/63702726/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-buzgu-detayli-elbise-twoss20el1864-p-35631203?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 1182,
+        "name": "Elbise",
+        "hierarchy": "Giyim/Elbise"
+      }],
+      "variants": [{
+        "itemNumber": 63702727,
+        "barcode": "8682165608066",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "38"
+        }],
+        "listings": [{
+          "id": "cb6251aca9df7af4105c9e007a9bbf84",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 89.99,
+            "buyingPrice": 0,
+            "originalPrice": 89.99,
+            "discountedPrice": 89.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 34431189,
+      "name": "Siyah Zebra Desenli Vatkalı Örme Body TWOSS20BD0003",
+      "productCode": "TWOSS20BD0003",
+      "inStock": true,
+      "dsmColor": "Çok Renkli",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29115450,
+      "ratingScore": {
+        "averageRating": 4.680232558139535,
+        "totalCount": 172
+      },
+      "images": [
+        "/assets/product/media/images/20200219/11/3167815/61605980/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61605980/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61605980/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61605980/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61605980/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/siyah-zebra-desenli-vatkali-orme-body-twoss20bd0003-p-34431189?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 592,
+        "name": "Body",
+        "hierarchy": "Giyim/Üst Giyim/Body"
+      }],
+      "variants": [{
+        "itemNumber": 61605981,
+        "barcode": "8682165185215",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "M"
+        }],
+        "listings": [{
+          "id": "114f808e6276ccdb659bb325a43b6f8c",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 59.99,
+            "buyingPrice": 0,
+            "originalPrice": 59.99,
+            "discountedPrice": 59.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    },
+    {
+      "id": 34611254,
+      "name": "Gri Bağlama Detaylı Kapüşonlu Örme Sweatshirt TWOSS20SW0131",
+      "productCode": "TWOSS20SW0131",
+      "inStock": true,
+      "dsmColor": "Gri",
+      "installmentCount": 12,
+      "businessUnit": "PL Woman",
+      "businessUnitData": {
+        "id": 100128,
+        "name": "PL Woman"
+      },
+      "uxLayout": "Fashion",
+      "productGroupId": 29237941,
+      "ratingScore": {
+        "averageRating": 4.378205128205129,
+        "totalCount": 156
+      },
+      "images": [
+        "/assets/product/media/images/20200118/15/2364069/61901626/1/1_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61901626/2/2_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61901626/3/3_org_zoom.jpg",
+        "/assets/product/media/images/20200118/15/2364069/61901626/4/4_org_zoom.jpg"
+      ],
+      "promotions": [],
+      "url": "/trendyolmilla/gri-baglama-detayli-kapusonlu-orme-sweatshirt-twoss20sw0131-p-34611254?boutiqueId=410698&merchantId=968",
+      "brand": {
+        "id": 40,
+        "name": "TRENDYOLMİLLA"
+      },
+      "categories": [{
+        "id": 601,
+        "name": "Sweatshirt",
+        "hierarchy": "Giyim/Üst Giyim/Sweatshirt"
+      }],
+      "variants": [{
+        "itemNumber": 61901626,
+        "barcode": "8682165294290",
+        "values": [{
+          "attributeId": 2,
+          "attributeName": "Beden",
+          "attributeValue": "S"
+        }],
+        "listings": [{
+          "id": "f47a5a6c46149891ea020167dfa701ec",
+          "fulfilmentType": "st",
+          "merchantId": 968,
+          "freeCargo": false,
+          "winner": true,
+          "price": {
+            "sellingPrice": 69.99,
+            "buyingPrice": 0,
+            "originalPrice": 69.99,
+            "discountedPrice": 69.99
+          },
+          "stamps": []
+        }]
+      }],
+      "legalRequirement": false
+    }
+  ]
+}
