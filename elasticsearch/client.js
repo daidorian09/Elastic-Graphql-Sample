@@ -1,4 +1,5 @@
-import Elasticsearch from 'elasticsearch'
+//import Elasticsearch from 'elasticsearch'
+import { Client } from '@elastic/elasticsearch';
 import logger from '../utils/logger/logger'
 
 require('dotenv').config({
@@ -14,9 +15,10 @@ logger.info(`Hosts : ${JSON.stringify(hosts, null, 4)}`)
 let client = null
 
 if (hosts && hosts.length > 0) {
-    debugger;
-    client = new Elasticsearch.Client({
-        hosts: hosts
+    client = new Client({
+        nodes:hosts,
+        hosts: hosts,
+        log: "trace"
     })
 } else {
     logger.error("Elastic hosts are undefined")

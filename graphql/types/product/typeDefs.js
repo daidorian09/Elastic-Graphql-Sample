@@ -116,6 +116,7 @@ type Product{
 export default {
     typeDefs,
     query: [
-      'getAll : [Product]'
+      'getAll : [Product]',
+      'getByVariantSize(size:String!) : [Product]'
     ]
   }

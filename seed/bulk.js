@@ -21,6 +21,7 @@ for (const product in PRODUCTS) {
 }
 
 es.client.bulk({
+  refresh: true,
   body: collectionBulk
 }, function (err, r) {
   if (err) {

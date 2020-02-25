@@ -45,5 +45,5 @@ app.get('/search', ApiElasticSearchClient);
 apolloServer.applyMiddleware({app})
 
 app.listen(PORT, () => {
-    logger.info(`🚀 Elastic-Graphql app is now running on ${PORT}${apolloServer.graphqlPath}`)
+    logger.info(`🚀 Elastic-Graphql app is now running on http://localhost:${PORT}/${apolloServer.graphqlPath}`)
 })
